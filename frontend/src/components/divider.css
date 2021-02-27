@@ -1,0 +1,8 @@
+
+  #divider {
+    margin: auto; 
+   height: 5px;
+   width: 30%;
+   background: blue;
+   background: linear-gradient(90deg, hsl(0, 0%, 70%), hsl(0, 0%, 20%), hsl(0, 0%, 70%));
+ }

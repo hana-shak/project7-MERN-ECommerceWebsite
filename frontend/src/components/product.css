@@ -1,0 +1,25 @@
+
+
+@media screen and (max-width: 900px) {
+  .container2 {
+      display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .container3 {
+      display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    
+  }
+  
+  .container3 img{
+      margin-top: 10%;
+  }
+ 
+ 
+}
